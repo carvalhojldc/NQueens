@@ -37,7 +37,7 @@ void Cromossomo::setGenetica(vector<int> genetica) {
 }
 
 int Cromossomo::getTamanho(void) {
-	return 8;
+	return tamCromossomo;
 }
 
 int Cromossomo::getGeracao(void) {
